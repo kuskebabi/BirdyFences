@@ -19,7 +19,7 @@ Just install/open the executable to get started.
 - To Lock/Unlock a fence, right click on the Title of the fence, then `Lock Fence`, Which makes fence not moveable or editable.
 - To edit title of the fence, double click on the title, then type the new title and press Enter, or ESC to undo.
 
-# To automatically start when boot
+# To automatically start on boot
 ## shell:startup
 - Windows 11: Right Click into the exe file then `Show more options` then `Send to` and click `Desktop (Create Shortcut)`
 - Windows 10: Right Click into the exe file then `Send to` and click `Desktop (Create Shortcut)`
